@@ -1,0 +1,6 @@
+data_hero/
+models/
+data/
+runs/
+*.pt
+*.mp4
